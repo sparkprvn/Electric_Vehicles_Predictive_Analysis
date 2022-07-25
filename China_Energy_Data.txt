@@ -1,0 +1,7 @@
+Source	2019 [TWh]	2020 [TWh]	Change [%]
+Total power production	7,326.9	7,623.6	4.0
+Hydro power	1,302.1	1,355.2	4.1
+Thermal power	5,046.5	5,174.3	2.5
+Nuclear power	348.7	366.2	5.0
+Wind power	405.3	466.5	15.1
+Solar power	224	261.1	16.6

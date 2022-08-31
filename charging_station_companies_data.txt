@@ -1,0 +1,31 @@
+country,company_name,num_charging_stations,energy_supply
+United States,non-networked,5872,Fossil Fuels
+United States,SemaConnect,1908,Fossil Fuels
+United States,Blink Network,1416,Fossil Fuels
+United States,EV Connect,747,Fossil Fuels
+United States,Volta,931,Fossil Fuels
+United States,POWERFLEX,36,Fossil Fuels
+United States,FCN,143,Fossil Fuels
+United States,OpConnect,169,Fossil Fuels
+United States,EVgo,850,RES
+United States,Electrify America,800,RES
+United States,Tesla,6000,Fossil Fuels
+United States,General Motors,2700,RES
+United States,ChargePoint,30000,Fossil Fuels
+United States,Francis Energy,545,Fossil Fuels
+United States,Shell,54000,Fossil Fuels
+United Kingdom,BP,9000,Fossil Fuels
+Canada,Tesla,569,Fossil Fuels
+United States,Greenlots,45000,Fossil Fuels
+Canada,Greenlots,9000,Fossil Fuels
+United States,Webasto,115,Fossil Fuels
+United Kingdom,POLAR,6500,RES
+United Kingdom,Osprey,200,RES
+United Kingdom,InstaVolt,800\,Fossil Fuels
+United Kingdom,MFG EV Power,95,Fossil Fuels
+United Kingdom,ChargeYourCar,680,Fossil Fuels
+United Kingdom,LEEH,100,Fossil Fuels
+United Kingdom,ChargePlace,2000,Fossil Fuels
+United Kingdom,Fastned,7,RES
+United Kingdom,Ionity,16,Fossil Fuels
+United Kingdom,Tesla,780,Fossil Fuels
